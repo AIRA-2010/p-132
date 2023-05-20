@@ -1,0 +1,31 @@
+.heading
+{
+font-size: 33px;
+width: 80%;
+margin: 0px;
+background-color: rgb(255, 0, 123);
+color: rgb(0, 255, 238);
+border-radius: 15px;
+}
+
+#status
+{
+font-size: 29px;
+background-color: tan;
+color: teal;
+width: 50%;
+border-radius: 20px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    background-color: aliceblue;
+    border: 3px double dodgerblue;
+    margin: 10px;
+    border-radius: 19px;
+}
+#back{
+    background-color: aquamarine;
+}
